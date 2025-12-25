@@ -100,15 +100,6 @@
   />
 </p>
 
-<p align="center">
-  <!-- GitHub Contribution Graph -->
-  <img
-    src="https://ghchart.rshah.org/DishaAndre"
-    height="180"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
 <hr/>
 
 <p align="center">
