@@ -74,26 +74,38 @@
 </p>
 
 <hr/>
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
+  <!-- GitHub Overall Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=radical&count_private=true"
     height="180"
     alt="GitHub Stats"
   />
+  <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAndre&layout=compact&theme=radical&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAndre&layout=compact&theme=radical&hide=html,css"
     height="180"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak -->
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=DishaAndre&theme=radical"
+    height="180"
     alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Contribution Graph -->
+  <img
+    src="https://ghchart.rshah.org/DishaAndre"
+    height="180"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
