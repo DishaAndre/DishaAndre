@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Disha Andre</h1>
+<h1 align="center">Hi 👋, I'm Disha Andre</h1>
 
 <p align="center">
   🎓 BTech Computer Engineering student at <b>PCCoE, Pune</b> <br/>
@@ -6,9 +6,9 @@
   🎨 Mandala artist
 </p>
 
----
+<hr/>
 
-### 🌐 Connect with me
+<h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/disha-andre-591897314/" target="_blank">
@@ -23,20 +23,14 @@
   <a href="https://www.codechef.com/users/disha_andre" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.instagram.com/dishaa_.05_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.pinterest.com/andredisha55/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
-  </a>
 </p>
 
----
+<hr/>
 
-### 💻 Languages & Tools
+<h3 align="center">💻 Languages & Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,r,html,css,js&perline=7" />
@@ -50,19 +44,33 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,powerbi,canva&perline=7" />
 </p>
 
----
+<hr/>
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAndre&layout=compact&theme=radical" height="180px"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=radical&cache_seconds=1800"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAndre&layout=compact&theme=radical&cache_seconds=1800"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DishaAndre&theme=radical"/>
+  <img
+    src="https://streak-stats.demolab.com?user=DishaAndre&theme=radical"
+    alt="GitHub Streak"
+  />
 </p>
 
----
+<hr/>
 
-📌 <i>Learning by doing. Growing every day.</i>
+<p align="center">
+  📌 <i>Learning by doing. Growing every day.</i>
+</p>
+
