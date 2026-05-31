@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Disha%20B.%20Andre&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Disha%20B.%20Andre&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=55"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=DishaAndre">
-    <img src="https://komarev.com/ghpvc/?username=DishaAndre&label=Profile%20views&color=00FFFF&style=flat-square" alt="DishaAndre's profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=DishaAndre&label=Profile%20views&color=00FFFF&style=flat-square" />
 </p>
 
 ## 📌 About Me
@@ -11,35 +9,37 @@
 - ✨ On a journey of learning, experimenting, and creating
 - 🎨 Mandala artist
 
+## 📊 GitHub Stats & Activity
 
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/DishaAndre">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DishaAndre&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="DishaAndre's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=DishaAndre&theme=dark&hide_border=true&cache_seconds=86400" alt="DishaAndre's GitHub Streak" width="49%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=dark&border_radius=10" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=DishaAndre&theme=dark&hide_border=true" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DishaAndre&theme=dark&radius=10" alt="DishaAndre's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DishaAndre&theme=dark&radius=10" />
 </p>
+
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
+## 📊 Top Languages
 
-![Top language](https://stats.pphat.top/languages?username=DishaAndre)
-<br/>
-
-## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/disha-andre-591897314/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="mailto:andredisha55@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;
-  <a href="https://disha-andre-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAndre&layout=compact&theme=dark" />
 </p>
 
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/disha-andre-591897314/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
+  </a>
+  <a href="mailto:andredisha55@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
+  </a>
+  <a href="https://disha-andre-portfolio.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" />
+  </a>
+</p>
