@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=dark&border_radius=10" alt="DishaAndre's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="DishaAndre's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=DishaAndre&theme=dark&hide_border=true" height="180em" />
 </p>
 
