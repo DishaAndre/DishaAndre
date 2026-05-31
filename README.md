@@ -1,108 +1,45 @@
-<h1 align="center">Hi 👋, I'm Disha Andre</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Disha%20B.%20Andre&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  🎓 BTech Computer Engineering student at <b>PCCoE, Pune</b> <br/>
-  ✨ On a journey of learning, experimenting, and creating <br/>
-  🎨 Mandala artist
+  <a href="https://komarev.com/ghpvc/?username=DishaAndre">
+    <img src="https://komarev.com/ghpvc/?username=DishaAndre&label=Profile%20views&color=00FFFF&style=flat-square" alt="DishaAndre's profile views" />
+  </a>
 </p>
 
-<hr/>
+## 📌 About Me
+- 🎓 BTech Computer Engineering student at PCCoE, Pune
+- ✨ On a journey of learning, experimenting, and creating
+- 🎨 Mandala artist
 
-<h3 align="center">🌐 Connect with me</h3>
 
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://www.linkedin.com/in/disha-andre-591897314/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/DishaAndre">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DishaAndre&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="DishaAndre's GitHub Stats" />
   </a>
+  <img src="https://streak-stats.demolab.com/?user=DishaAndre&theme=dark&hide_border=true&cache_seconds=86400" alt="DishaAndre's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DishaAndre&theme=dark&radius=10" alt="DishaAndre's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+
+![Top language](https://stats.pphat.top/languages?username=DishaAndre)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/disha-andre-591897314/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
   <a href="mailto:andredisha55@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;
+  <a href="https://disha-andre-portfolio.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
-  <a href="https://leetcode.com/u/disha_andre/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/disha_andre" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/disha_andre23" target="_blank"> 
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/> 
-  </a>
-  <a href="https://www.instagram.com/dishaa_.05_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<hr/>
-
-<h3 align="center">💻 Languages & Tools</h3>
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-</p>
-
-<p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
-</p>
-
-<p align="center">
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
-</p>
-
-<hr/>
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=radical&count_private=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAndre&layout=compact&theme=radical&hide=html,css"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=DishaAndre&theme=radical"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
-
-<hr/>
-
-<p align="center">
-  📌 <i>Learning by doing. Growing every day.</i>
 </p>
 
