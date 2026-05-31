@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="profile-3d-city.svg" alt="3D City" width="60%" />
 </div>
 
 
