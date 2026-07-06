@@ -7,7 +7,7 @@
 ## 📌 About Me
 - 🎓 BTech Computer Engineering student at PCCoE, Pune
 - ✨ On a journey of learning, experimenting, and creating
-- 🎨 Mandala artist
+
 
 
 ## 📊 GitHub Stats & Trophies
