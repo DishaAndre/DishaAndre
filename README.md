@@ -8,24 +8,20 @@
 - 🎓 BTech Computer Engineering student at PCCoE, Pune
 - ✨ On a journey of learning, experimenting, and creating
 
-
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DishaAndre&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="DishaAndre's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=DishaAndre&theme=dark&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=DishaAndre&theme=dark&hide_border=true" height="180em" alt="DishaAndre's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaAndre&layout=compact&theme=dark&hide_border=true" alt="DishaAndre's Top Languages" />
 </p>
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=DishaAndre&theme=dark&radius=10" alt="DishaAndre's Activity Graph" />
 </p>
 
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="60%" />
-</div>
-
-
-![Top language](https://stats.pphat.top/languages?username=DishaAndre)
 <br/>
 
 ## 🔗 Connect with Me
